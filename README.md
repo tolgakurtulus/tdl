@@ -2,7 +2,7 @@
 
 #### Language = Python, Html, Css, Js
 
-#### Framework = Django 
+#### Framework = Django, Bootsrap 
 
 #### Database = SQlite 
 
